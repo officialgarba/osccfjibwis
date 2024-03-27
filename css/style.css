@@ -697,7 +697,8 @@ a:focus {
 /*******************************/
 .fact {
     position: relative;
-    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
     padding: 45px 0;
 }
 
